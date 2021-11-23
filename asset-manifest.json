@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio-page/static/css/main.82ff2aba.chunk.css",
+    "main.js": "/portfolio-page/static/js/main.38d0488a.chunk.js",
+    "main.js.map": "/portfolio-page/static/js/main.38d0488a.chunk.js.map",
+    "runtime-main.js": "/portfolio-page/static/js/runtime-main.7c152ff0.js",
+    "runtime-main.js.map": "/portfolio-page/static/js/runtime-main.7c152ff0.js.map",
+    "static/css/2.25249b3f.chunk.css": "/portfolio-page/static/css/2.25249b3f.chunk.css",
+    "static/js/2.1f99ff21.chunk.js": "/portfolio-page/static/js/2.1f99ff21.chunk.js",
+    "static/js/2.1f99ff21.chunk.js.map": "/portfolio-page/static/js/2.1f99ff21.chunk.js.map",
+    "index.html": "/portfolio-page/index.html",
+    "precache-manifest.bf165f864378214746a240019cdeecaa.js": "/portfolio-page/precache-manifest.bf165f864378214746a240019cdeecaa.js",
+    "service-worker.js": "/portfolio-page/service-worker.js",
+    "static/css/2.25249b3f.chunk.css.map": "/portfolio-page/static/css/2.25249b3f.chunk.css.map",
+    "static/css/main.82ff2aba.chunk.css.map": "/portfolio-page/static/css/main.82ff2aba.chunk.css.map",
+    "static/js/2.1f99ff21.chunk.js.LICENSE.txt": "/portfolio-page/static/js/2.1f99ff21.chunk.js.LICENSE.txt",
+    "static/media/apdiet.png": "/portfolio-page/static/media/apdiet.66b223ea.png",
+    "static/media/biznestoq.png": "/portfolio-page/static/media/biznestoq.0dc3d41e.png",
+    "static/media/consulting.png": "/portfolio-page/static/media/consulting.971354ea.png",
+    "static/media/corpussanum.png": "/portfolio-page/static/media/corpussanum.52603eab.png",
+    "static/media/jansbud.png": "/portfolio-page/static/media/jansbud.3a65c4bb.png",
+    "static/media/ktory-kosz.png": "/portfolio-page/static/media/ktory-kosz.186de669.png",
+    "static/media/me-blue.png": "/portfolio-page/static/media/me-blue.1322d486.png",
+    "static/media/moena.png": "/portfolio-page/static/media/moena.f617d4e9.png",
+    "static/media/movie-quotes-quiz.png": "/portfolio-page/static/media/movie-quotes-quiz.f817f1f1.png",
+    "static/media/pozytywnie.png": "/portfolio-page/static/media/pozytywnie.fa9d6ffb.png",
+    "static/media/reveil.png": "/portfolio-page/static/media/reveil.42d99154.png",
+    "static/media/tazz.png": "/portfolio-page/static/media/tazz.35e13fc7.png",
+    "static/media/turystyczny.png": "/portfolio-page/static/media/turystyczny.3cd18607.png",
+    "static/media/wdziecznopis.png": "/portfolio-page/static/media/wdziecznopis.61001ca8.png",
+    "static/media/weather-finder.png": "/portfolio-page/static/media/weather-finder.62692591.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c152ff0.js",
+    "static/css/2.25249b3f.chunk.css",
+    "static/js/2.1f99ff21.chunk.js",
+    "static/css/main.82ff2aba.chunk.css",
+    "static/js/main.38d0488a.chunk.js"
+  ]
+}
