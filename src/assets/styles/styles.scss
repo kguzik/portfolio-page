@@ -76,6 +76,7 @@ li {
       -moz-box-shadow: 0px 0px 25px 3px $grey;
       box-shadow: 0px 0px 25px 3px $grey;
       margin-top: 50px;
+      max-width: 750px;
     }
 
     &--list {
@@ -159,7 +160,7 @@ li {
 
 @media all and (max-width: 1024px) {
   .slider__single-slide--image {
-    width: 80%;
+    width: 85%;
   }
 }
 
